@@ -14,7 +14,7 @@ $ npm install --save parse-exponential
 var parseExponential = require('parse-exponential')
 (10).toExponential() // => '1e+1'
 parseExponential('1e+1')
-//=> {coefficient: '1', positive: true, exponent: '1'}
+//=> ['1', '+1']
 ```
 
 ## API
