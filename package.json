@@ -1,7 +1,7 @@
 {
   "name": "parse-exponential",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse an exponential notation string into parts",
   "license": "MIT",
   "repository": "bendrucker/parse-exponential",
