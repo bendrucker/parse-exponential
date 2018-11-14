@@ -1,4 +1,4 @@
-# parse-exponential [![Build Status](https://travis-ci.org/bendrucker/parse-exponential.svg?branch=master)](https://travis-ci.org/bendrucker/parse-exponential)
+# parse-exponential [![Build Status](https://travis-ci.org/bendrucker/parse-exponential.svg?branch=master)](https://travis-ci.org/bendrucker/parse-exponential) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/parse-exponential.svg)](https://greenkeeper.io/)
 
 > Parse an exponential notation string into parts
 
